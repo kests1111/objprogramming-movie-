@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "movie_id": 1,
+      "title": "Аватар 3",
+      "duration": 192,
+      "rating": 8.5,
+      "genre": "Фантастика"
+    },
+    {
+      "movie_id": 2,
+      "title": "Интерстеллар",
+      "duration": 169,
+      "rating": 9.0,
+      "genre": "Научная фантастика"
+    },
+    {
+      "movie_id": 3,
+      "title": "Матрица: Воскрешение",
+      "duration": 148,
+      "rating": 7.8,
+      "genre": "Киберпанк"
+    },
+    {
+      "movie_id": 4,
+      "title": "Опpenheimer",
+      "duration": 180,
+      "rating": 8.7,
+      "genre": "История"
+    },
+    {
+      "movie_id": 5,
+      "title": "Три тела",
+      "duration": 156,
+      "rating": 8.2,
+      "genre": "Фантастика"
+    }
+  ]
+}
